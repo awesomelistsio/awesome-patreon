@@ -49,6 +49,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Creator Hub by Patreon](https://creatorhub.patreon.com/) – Marketing, growth, and business resources for creators.
 - [Patreon’s YouTube Channel](https://www.youtube.com/user/PatreonHQ) – Tutorials, success stories, and platform updates.
 - [Social Media Tips for Patreon Creators](https://blog.patreon.com/social-media-for-creators) – Best practices for using social media alongside Patreon.
+- [CreatorSkills](https://creatorskills.co) – Marketplace of 30+ downloadable AI skills for content creators covering scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Communities & Forums
 
